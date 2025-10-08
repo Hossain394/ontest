@@ -1,0 +1,15 @@
+.one{
+    height: 400px;
+    width: 300px;
+    background-color: tomato;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.click{
+     height: 40px;
+    width: 60px;
+    background-color: tan;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 20px;
+}
