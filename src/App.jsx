@@ -1,18 +1,15 @@
-import { useState } from "react"
 
+import { Button } from 'react-bootstrap';
 
 
 
 function App() {
- let [show, SetShow] = useState(false);
- let handleClickOne = () =>{
- SetShow(!show)
+ 
   
- };
+
   return (
     <>
-    <button className="click" onClick={handleClickOne}>click</button>
-      {show == true && <div className="one"></div>}
+    <button>ami</button>
 
     </>
   )
